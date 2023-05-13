@@ -6,6 +6,10 @@ body{
     background-color: #4682B4;
 }
 
+.container h1 {
+    font-size: px;
+}
+
 .text-link,
 #fale-conosco button {
     color: #fff;
